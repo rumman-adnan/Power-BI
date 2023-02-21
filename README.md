@@ -1,4 +1,4 @@
-# Power-BI
+# Power BI Project Report
 
 ### Goal: 
 Design end-to-end Business Intelligence Solution for global manufacturing company Adventure Works Cycle
